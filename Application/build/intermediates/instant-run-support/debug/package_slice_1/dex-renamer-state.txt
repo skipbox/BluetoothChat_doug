@@ -1,0 +1,4 @@
+#Tue Jan 22 01:40:35 CST 2019
+base.0=C\:\\Users\\laowai\\AndroidStudioProjects\\BluetoothChat_doug\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
